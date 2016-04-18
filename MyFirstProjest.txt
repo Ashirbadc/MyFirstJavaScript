@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  
+</head>
+  
+<body>
+  
+<span id="demo"></span>
+
+<script>
+
+alert.addEventListener('load',myfirst,false');
+
+fuction myfirst(){
+
+alert("Hello World using an Event Listener");
+documet.getElementById("demo").innerHTML = "Hello World";
+       
+
+}
+    
+</script>
+     
+  
+
+</body>
+
+
+</html>
